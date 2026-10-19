@@ -1,0 +1,6 @@
+Text File Statistics
+
+*************************
+Number of lines: 3
+Number of words: 14
+Number of characters: 77
